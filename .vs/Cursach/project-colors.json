@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88ebf8ad-1c84-485b-b9f0-9b2829bf9309": {
+      "ProjectGuid": "88ebf8ad-1c84-485b-b9f0-9b2829bf9309",
+      "DisplayName": "Cursach",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

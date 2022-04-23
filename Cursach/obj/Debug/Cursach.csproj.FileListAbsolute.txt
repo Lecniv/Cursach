@@ -1,0 +1,13 @@
+E:\Learn\курсовой\Cursach\Cursach\bin\Debug\Cursach.exe.config
+E:\Learn\курсовой\Cursach\Cursach\bin\Debug\Cursach.exe
+E:\Learn\курсовой\Cursach\Cursach\bin\Debug\Cursach.pdb
+E:\Learn\курсовой\Cursach\Cursach\obj\Debug\Cursach.csproj.AssemblyReference.cache
+E:\Learn\курсовой\Cursach\Cursach\obj\Debug\Cursach.FormPremier.resources
+E:\Learn\курсовой\Cursach\Cursach\obj\Debug\Cursach.FormConnector.resources
+E:\Learn\курсовой\Cursach\Cursach\obj\Debug\Cursach.Properties.Resources.resources
+E:\Learn\курсовой\Cursach\Cursach\obj\Debug\Cursach.csproj.GenerateResource.cache
+E:\Learn\курсовой\Cursach\Cursach\obj\Debug\Cursach.csproj.CoreCompileInputs.cache
+E:\Learn\курсовой\Cursach\Cursach\obj\Debug\Cursach.exe
+E:\Learn\курсовой\Cursach\Cursach\obj\Debug\Cursach.pdb
+E:\Learn\курсовой\Cursach\Cursach\obj\Debug\Cursach.FormArea.resources
+E:\Learn\курсовой\Cursach\Cursach\obj\Debug\Cursach.FormBuild.resources
